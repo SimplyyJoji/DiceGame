@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: white;
+}
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+h1 {
+  font-size: 9rem;
+  text-shadow: 9px 5px #e66027;
+}
+p {
+  color: #08d9d6;
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
